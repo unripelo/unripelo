@@ -1,5 +1,5 @@
 # 🐥 Aya
-🌱 I’m currently learning and a computer science student
+🌱 I’m learning
 
 # Note
 
