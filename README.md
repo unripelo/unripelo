@@ -1,5 +1,5 @@
 # 🐥 Aya
-🌱 I’m learning
+🌱 Currently busy because of uni
 
 # Note
 
