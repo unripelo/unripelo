@@ -1,8 +1,9 @@
 # 🐥 Aya
-🌱 Currently busy because of uni
+🌱 Hi, I'm Aya! I am currently busy because of uni.
 
 # Note
-
+ I am still learning.
+ 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=unripelo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=unripelo&theme=dark&hide_border=false)<br/>
