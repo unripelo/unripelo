@@ -2,7 +2,7 @@
 🌱 Hi, I'm Aya! I am currently busy because of uni.
 
 # Note
- I am still learning.
+ I am a work in progress.
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=unripelo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
