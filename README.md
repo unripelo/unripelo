@@ -3,4 +3,6 @@
 
 # Note
  Currently searching for projects I want to do.
- 
+
+ # Life Update
+ ge kapoy nah
