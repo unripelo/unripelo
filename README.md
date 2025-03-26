@@ -5,4 +5,4 @@
  Other repositories are on-hold.
 
 # 💧Life Update
- ge kapoy nah
+ ge kapoy nah wala na ako ma izip
