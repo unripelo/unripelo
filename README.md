@@ -1,2 +1,2 @@
-# 🐥 About Me
- Hi, I'm Aya. I am currently busy because of uni. 
+# About Me
+Hello, I'm Aya. I am currently busy because of uni. 
