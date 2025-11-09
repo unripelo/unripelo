@@ -1,4 +1,5 @@
 # :)
 hi, i'm Aya! <3
 
-# wala koy ma commit pa </33
+# :D
+just me making shit so i have one commit, i'm still busy 
