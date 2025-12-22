@@ -1,2 +1,2 @@
 # about me
-hi, i'm Aya! currently a 3rd year burnout cs student 
+hi, i'm Aya! currently a 3rd year cs student & trying not to burnout
