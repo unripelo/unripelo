@@ -1,2 +1,2 @@
 # about me
-hi, i'm Aya! currently a 3rd year cs student & learning. 
+hi, i'm Ira! currently a 3rd year cs student & learning. 
